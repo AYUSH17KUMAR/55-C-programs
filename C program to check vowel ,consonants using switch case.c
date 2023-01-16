@@ -4,11 +4,11 @@ int main()
 {
     char ch;
 
-    /* Input an alphabet from user */
+    
     printf("Enter any alphabet: ");
     scanf("%c", &ch);
 
-    /* Switch value of ch */
+    
     switch(ch)
     {
         case 'a': 
